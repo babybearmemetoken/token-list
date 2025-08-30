@@ -4,7 +4,7 @@
   "symbol": "BABYBEAR",
   "name": "Baby Bear",
   "decimals": 9,
-  "logoURI": "https://ibb.co/pjQjxfcK,
+  "logoURI": "https://babybearmemetoken.carrd.co/assets/images/image02.jpg?v=60d261cd,
   "tags": ["meme"],
   "extensions": {
     "website": "https://babybearmemetoken.carrd.co/",
@@ -12,3 +12,4 @@
     "telegram": "https://t.me/babybearmemetoken"
   }
 }
+
